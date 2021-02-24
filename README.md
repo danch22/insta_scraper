@@ -1,5 +1,11 @@
 # Welcome to Insta Scraper!
 
+## This project was made by:
+ * [Dana Velibekov](https://github.com/danch22)
+ * [Yaniv Goldfrid](https://github.com/ygoldfrid) 
+
+
+
 ## 1. About the project
 Insta scraper is a command-line application written in Python that scrapes public Instagram information about:
   * Users (username, followers, following, etc)
